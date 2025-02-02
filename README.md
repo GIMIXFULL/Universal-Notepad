@@ -27,7 +27,7 @@
 - Звуковая карта для уведомлений
 
 ## Установка
-1. Скачайте последнюю версию из раздела [Releases]([https://github.com/GIMIXFULL/Universal-Notepad/releases])
+1. Скачайте последнюю версию из раздела [Releases](https://github.com/GIMIXFULL/Universal-Notepad/releases)
 2. Распакуйте архив в любую папку
 3. Запустите Universal_Notepad.exe
 
