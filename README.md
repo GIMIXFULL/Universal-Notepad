@@ -15,7 +15,7 @@
 - 100 MB свободного места
 
 ## Использование
-1. Скачайте последнюю версию из раздела [Releases](https://github.com/GIMIXFULL/Universal_Notepad.v1.0.0/releases)
+1. Скачайте последнюю версию из раздела [Releases](https://github.com/GIMIXFULL/Universal-Notepad-v1.0.0/releases)
 2. Распакуйте архив в любую папку
 3. Запустите Universal_Notepad.exe
 
